@@ -19,7 +19,9 @@ This Python bot automates MP3 downloads from YouTube links using Selenium and an
 2. Run the bot with `main.py`.
 
 ## Important Notice
-- This tool interacts with YouTube and a third-party converter to download MP3s. Downloading content from YouTube may violate its Terms of Service. Ensure that you have the right to download and use the content. Use this tool responsibly and at your own risk.
+
+This tool interacts with YouTube and a third-party converter to download MP3s. Downloading content from YouTube may violate YouTube’s Terms of Service. Ensure you comply with applicable laws and have the proper rights to download and use the content. Use this tool responsibly and at your own risk.
 
 ## Responsible Use
-This bot is intended for educational and personal use. Always verify content rights before downloading and consider using legitimate sources for royalty-free or Creative Commons content.
+
+This bot is intended for educational purposes only. Always verify content rights before downloading. Consider using legitimate sources for royalty-free or Creative Commons content when appropriate.
